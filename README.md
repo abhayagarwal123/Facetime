@@ -1,12 +1,14 @@
 # videocall
 
-A new Flutter project.
+An app in which you can perform group video and audio call .
+For storing data I use firebase and for videocall I integrate the zegocloud toolkit
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
+integration with firebase authentication and firebase cloud storage
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
