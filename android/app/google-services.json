@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869173409012",
+    "project_id": "zoom-88c67",
+    "storage_bucket": "zoom-88c67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869173409012:android:86b99637fe7af7b8b89aa1",
+        "android_client_info": {
+          "package_name": "com.example.videocall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN7Uo2SQtbrwNspGVhCQ1XJRUNzSc5gPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
