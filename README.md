@@ -1,7 +1,8 @@
-# videocall
+# Facetime
 
 An app in which you can perform group video and audio call .
-For storing data I use firebase and for videocall I integrate the zegocloud toolkit
+For storing data I use firebase cloud storage 
+For videocalling I integrate the the app with zegocloud toolkit
 
 ## Getting Started
 
